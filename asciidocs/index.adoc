@@ -1,0 +1,11 @@
+= Demo: Quarkus / Flyway / Testcontainers / MapStruct
+Thomas W. Stütz
+1.0.0, 2021-05-13: Source: https://developers.redhat.com/blog/2021/05/11/building-an-api-using-quarkus-from-the-ground-up/?sc_cid=7013a0000026GuZAAU[Build an API using Quarkus from the ground up]
+:imagesdir: image
+:icons: font
+:sectnums:
+:experimental: true
+
+
+Source: https://developers.redhat.com/blog/2021/05/11/building-an-api-using-quarkus-from-the-ground-up/?sc_cid=7013a0000026GuZAAU[Build an API using Quarkus from the ground up]
+
